@@ -148,7 +148,7 @@ is the same as calling::
 
 .. envvar:: VIRTUAL_ENV_DISABLE_PROMPT
 
-   Any virtualenv created when this is set to a non-empty value will not have
+   Any virtualenv activated when this is set to a non-empty value will not have
    it's :ref:`activate` modify the shell prompt.
 
 
